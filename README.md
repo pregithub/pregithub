@@ -10,15 +10,6 @@
     <a href="mailto:precloud@icloud.com">
       <img src="https://img.shields.io/badge/Email-precloud@icloud.com-7C3AED?style=for-the-badge&logo=mail&logoColor=white" alt="Email"/>
     </a>
-    <a href="【https://your-blog.com】">
-      <img src="https://img.shields.io/badge/Blog-【your-blog.com】-22D3EE?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
-    </a>
-    <a href="【https://x.com/yourhandle】">
-      <img src="https://img.shields.io/badge/X-@yourhandle-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-    </a>
-    <a href="【https://www.linkedin.com/in/yourhandle】">
-      <img src="https://img.shields.io/badge/LinkedIn-yourhandle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=pregithub&label=Profile+Views&color=7c3aed&style=flat-square" alt="views"/>
