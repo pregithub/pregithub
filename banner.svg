@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="pregithub banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1026"/>
+      <stop offset="55%" stop-color="#141a3a"/>
+      <stop offset="100%" stop-color="#1e1145"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.2" r="0.6">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+
+  <!-- grid -->
+  <g stroke="#ffffff" stroke-opacity="0.06" stroke-width="1">
+    <line x1="0" y1="60" x2="1200" y2="60"/>
+    <line x1="0" y1="120" x2="1200" y2="120"/>
+    <line x1="0" y1="180" x2="1200" y2="180"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+    <line x1="150" y1="0" x2="150" y2="300"/>
+    <line x1="300" y1="0" x2="300" y2="300"/>
+    <line x1="450" y1="0" x2="450" y2="300"/>
+    <line x1="600" y1="0" x2="600" y2="300"/>
+    <line x1="750" y1="0" x2="750" y2="300"/>
+    <line x1="900" y1="0" x2="900" y2="300"/>
+    <line x1="1050" y1="0" x2="1050" y2="300"/>
+  </g>
+
+  <!-- decorative nodes -->
+  <g fill="#22d3ee">
+    <circle cx="1010" cy="80" r="5"/>
+    <circle cx="1090" cy="140" r="4"/>
+    <circle cx="960" cy="180" r="4"/>
+    <circle cx="1130" cy="220" r="5"/>
+  </g>
+  <g stroke="#a78bfa" stroke-opacity="0.5" stroke-width="1.5" fill="none">
+    <path d="M1010 80 L1090 140 L1130 220"/>
+    <path d="M1090 140 L960 180"/>
+  </g>
+
+  <!-- accent bar -->
+  <rect x="90" y="118" width="70" height="6" rx="3" fill="url(#accent)"/>
+
+  <!-- title -->
+  <text x="90" y="170" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="64" font-weight="700" fill="#f8fafc">pregithub</text>
+  <text x="92" y="215" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="24" fill="#c4b5fd">Software Engineer · AI Agent Builder · Patent &amp; IP Practitioner</text>
+  <text x="92" y="250" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="20" fill="#94a3b8">软件研发 · AI 智能体 · 知识产权 / 专利代理 · Web3 探索</text>
+</svg>
