@@ -65,10 +65,6 @@
 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pregithub&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=pregithub&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy"/>
-
 </div>
 
 ---
