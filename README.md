@@ -7,8 +7,8 @@
   </a>
 
   <p>
-    <a href="mailto:【your@email.com】">
-      <img src="https://img.shields.io/badge/Email-【your@email.com】-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="mailto:precloud@icloud.com">
+      <img src="https://img.shields.io/badge/Email-precloud@icloud.com-7C3AED?style=for-the-badge&logo=mail&logoColor=white" alt="Email"/>
     </a>
     <a href="【https://your-blog.com】">
       <img src="https://img.shields.io/badge/Blog-【your-blog.com】-22D3EE?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
@@ -95,7 +95,7 @@
 - 专利检索（FTO）、专利撰写与知识产权咨询
 - Web3 / 链游相关远程协作
 
-📮 联系我：把上方【】里的占位内容换成你的真实邮箱与社交链接即可。
+📮 联系我：precloud@icloud.com（Blog / X / LinkedIn 待补充）。
 
 ---
 
